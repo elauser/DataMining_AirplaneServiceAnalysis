@@ -1,0 +1,14 @@
+#No assignment documents
+*.xlsx
+*.docx
+*.pdf
+*.pptx
+
+#No big files
+*.jpg
+*.json
+*.git_backup
+*.gz
+*.log
+
+.ipynb_checkpoints
